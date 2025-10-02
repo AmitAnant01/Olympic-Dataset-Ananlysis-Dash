@@ -27,5 +27,6 @@ To explore and understand Olympic performance trends across nations, sports, and
 ### Tech Stack:
 
 Power BI – Dashboard & visualization
+[https://github.com/AmitAnant01/Olympic-Dataset-Ananlysis-Dash/blob/main/OlympicDash.png ](https://app.powerbi.com/links/8ZCp8yskU_?ctid=e70130a5-6043-424d-8bd5-f7cefbd318ad&pbi_source=linkShare)
 
 
