@@ -1,1 +1,31 @@
-# Olympic-Dataset-Ananlysis-Dash
+# Olympic Games Dashboard Analysis (1896–2016) Uing Power BI
+
+This repository contains an interactive Power BI dashboard analyzing Olympic Games data from 1896 to 2016. It provides deep insights into medals, athletes, sports, and countries across 120 years of Olympic history.In this repository basically i have perform the visualization analysis on the Olympic Dataset where i have raw data into useful intractive visual.
+
+## Features:
+
+Filters: Year, Country, Medal Type, Sex, Sport, and Age Group.
+
+KPI Cards: Total Medals, Gold, Silver, Bronze, and Total Athletes.
+
+Visuals:
+
+- World map of participating countries.
+
+- Medal distribution by country and sport.
+
+- Gold medal breakdown by nation.
+
+- Age-wise medal trends.
+
+- Top-performing athletes with total medals won.
+
+## Purpose:
+
+To explore and understand Olympic performance trends across nations, sports, and athletes over more than a century of games.
+
+### Tech Stack:
+
+Power BI – Dashboard & visualization
+
+
