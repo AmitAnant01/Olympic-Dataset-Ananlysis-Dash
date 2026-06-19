@@ -1,5 +1,5 @@
 # Olympic Games Dashboard Analysis (1896–2016) Using Power BI
-
+![App Screenshot](OlympicDash.png)
 This repository contains an interactive Power BI dashboard analyzing Olympic Games data from 1896 to 2016. It provides deep insights into medals, athletes, sports, and countries across 120 years of Olympic history.In this repository basically i have perform the visualization analysis on the Olympic Dataset where i have raw data into useful intractive visual.
 
 ## Features:
